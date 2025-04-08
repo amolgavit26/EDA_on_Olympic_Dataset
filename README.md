@@ -52,7 +52,7 @@ The analysis is based on the [Kaggle Olympic Athletes Dataset](https://www.kaggl
 - `ydata_profiling`
 
 ## 📸 Sample Visualizations
-![Visualization Graphs](./Visualization Graphs.png)
+![Visualization Graphs](./Visualization%20Graphs.png)
 
 ## 🔎 Future Work
 
