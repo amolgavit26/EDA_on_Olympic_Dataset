@@ -61,3 +61,7 @@ The analysis is based on the [Kaggle Olympic Athletes Dataset](https://www.kaggl
 - Does the nation's Olympic accomplishment rely on its wealth (GDP)?
 - How do a country's Olympics and climate relate to one another?
 - Instead of tallying every individual for a team event we can count it as one medal.
+
+- ## 🧑‍💻 Technologies & Tools Used
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
